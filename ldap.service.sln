@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Security.Service", "Security.Service\Security.Service.csproj", "{7106B8DE-EB0E-4C45-B720-66C527831E82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User.Service", "User.Service\User.Service.csproj", "{40162203-A42B-40C7-A627-0122B71402F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workflow.Service", "Workflow.Service\Workflow.Service.csproj", "{F96D5ABA-4EB3-4FA4-BD2F-5C9ABA2B7A5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7106B8DE-EB0E-4C45-B720-66C527831E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7106B8DE-EB0E-4C45-B720-66C527831E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7106B8DE-EB0E-4C45-B720-66C527831E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7106B8DE-EB0E-4C45-B720-66C527831E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40162203-A42B-40C7-A627-0122B71402F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40162203-A42B-40C7-A627-0122B71402F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40162203-A42B-40C7-A627-0122B71402F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40162203-A42B-40C7-A627-0122B71402F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96D5ABA-4EB3-4FA4-BD2F-5C9ABA2B7A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96D5ABA-4EB3-4FA4-BD2F-5C9ABA2B7A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96D5ABA-4EB3-4FA4-BD2F-5C9ABA2B7A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96D5ABA-4EB3-4FA4-BD2F-5C9ABA2B7A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

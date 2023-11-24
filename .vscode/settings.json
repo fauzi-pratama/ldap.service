@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "Security.Service\\bin": true,
+    "Security.Service\\obj": true,
+    "User.Service\\bin": true,
+    "User.Service\\obj": true,
+    "Workflow.Service\\bin": true,
+    "Workflow.Service\\obj": true
+  }
+}
